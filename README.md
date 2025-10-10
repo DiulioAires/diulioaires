@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Diulio Aires
+#  Olá, eu sou o Diulio Aires
 
 Sou desenvolvedor apaixonado por tecnologia e inovação. Trabalho com **HTML**, **CSS**, **JavaScript**, **Node.js** 😄.
 
