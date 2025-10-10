@@ -21,5 +21,4 @@ Sou desenvolvedor apaixonado por tecnologia e inovação. Trabalho com **HTML**,
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/odiulioaires)
 
 ---
-
-⭐️ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐️ lá!
+Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐️ lá!
