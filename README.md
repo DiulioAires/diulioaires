@@ -9,7 +9,7 @@ I am a software developer passionate about technology, innovation, and solving c
 - Currently building comprehensive full-stack solutions using **Next.js**, **React**, and **Tailwind CSS**.
 - Developing robust back-end architectures and managing data with **Node.js** and **PostgreSQL**.
 - Strongly typed code enthusiast, actively utilizing **TypeScript** for better scalability and maintainability.
-- When I am not building web applications, I enjoy exploring game development in **Unreal Engine** and tackling algorithmic challenges on platforms like **Beecrowd**.
+- When I am not building web applications, I enjoy exploring game development in **Unreal Engine.**
 
 ---
 
